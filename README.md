@@ -1,5 +1,5 @@
 # Cryptology
-This repository contains various algorithms and protocols about cryptography, cryptanalysis and needed mathematics (Discrete mathematics and Number Theory)
+This repository will be enriched with various algorithms and protocols about cryptography, cryptanalysis and needed mathematics (Discrete mathematics and Number Theory)
 
 ## One Time Pad
 
